@@ -132,6 +132,7 @@ namespace ClassHierarchy
                 Console.WriteLine("Hello there...");
                 }
 
+            //Empty Abstract method
             public abstract void AbstractMethod();
         }
 
